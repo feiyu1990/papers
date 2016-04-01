@@ -1,0 +1,192 @@
+\begin{thebibliography}{10}
+
+\bibitem{2015trecvidover}
+Over, P., Awad, G., Michel, M., Fiscus, J., Kraaij, W., Smeaton, A.F.,
+  Qu{\'e}enot, G., Ordelman, R.:
+\newblock Trecvid 2015 -- an overview of the goals, tasks, data, evaluation
+  mechanisms and metrics.
+\newblock In: Proceedings of TRECVID 2015, NIST, USA (2015)
+
+\bibitem{TangCVPR12}
+Tang, K., Fei-Fei, L., Koller, D.:
+\newblock Learning latent temporal structure for complex event detection.
+\newblock In: CVPR. (2012)
+
+\bibitem{xu2015discriminative}
+Xu, Z., Yang, Y., Hauptmann, A.G.:
+\newblock A discriminative cnn video representation for event detection.
+\newblock In: Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition. (2015)  1798--1807
+
+\bibitem{lstm}
+Hochreiter, S., Schmidhuber, J.:
+\newblock Long short-term memory.
+\newblock Neural Comput. (1997)
+
+\bibitem{lstm2}
+Reiter, S., Schuller, B.W., Rigoll, G.:
+\newblock A combined {LSTM-RNN} - {HMM} - approach for meeting event
+  segmentation and recognition.
+\newblock In: 2006 {IEEE} International Conference on Acoustics Speech and
+  Signal Processing, {ICASSP} 2006, Toulouse, France, May 14-19, 2006. (2006)
+  393--396
+
+\bibitem{what_where}
+Li, L.J., Fei-Fei, L.:
+\newblock What, where and who? classifying events by scene and object
+  recognition.
+\newblock In: Computer Vision, 2007. ICCV 2007. IEEE 11th International
+  Conference on. (2007)
+
+\bibitem{Park_2015_CVPR_Workshops}
+Park, S., Kwak, N.:
+\newblock Cultural event recognition by subregion classification with
+  convolutional neural network.
+\newblock In: The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR) Workshops. (2015)
+
+\bibitem{cSalvadora}
+Salvador, A., Zeppelzauer, M., Manchon-Vizuete, D., Calafell-Or{\'o}s, A.,
+  Gir{\'o}-i Nieto, X.:
+\newblock Cultural event recognition with visual convnets and temporal models.
+\newblock In: CVPR ChaLearn Looking at People Workshop 2015. (06/2015 2015)
+
+\bibitem{HMM}
+Bossard, L., Guillaumin, M., Van, L.:
+\newblock Event recognition in photo collections with a stopwatch hmm.
+\newblock In: Computer Vision (ICCV), 2013 IEEE International Conference on.
+  (2013)
+
+\bibitem{aesthe_14}
+Lu, X., Lin, Z., Jin, H., Yang, J., Wang, J.Z.:
+\newblock Rapid: Rating pictorial aesthetics using deep learning.
+\newblock In: Proceedings of the ACM International Conference on Multimedia.
+  (2014)
+
+\bibitem{interesting}
+Dhar, S., Ordonez, V., Berg, T.L.:
+\newblock High level describable attributes for predicting aesthetics and
+  interestingness.
+\newblock In: IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). (2011)
+
+\bibitem{Isola2011}
+Isola, P., Xiao, J., Torralba, A., Oliva, A.:
+\newblock What makes an image memorable?
+\newblock In: IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). (2011)
+
+\bibitem{CVPR}
+Wang, Y., Lin, Z., Shen, X., Mech, R., Miller, G., Cottrell, G, W.:
+\newblock Event-specific image importance.
+\newblock In: In Proc. Computer Vision and Pattern Recognition Conference
+  (CVPR). (2016)
+
+\bibitem{Mattivi11}
+R.MattiviandJ.R.R.UijlingsandF.deNataleandN.Sebe:
+\newblock Exploitation of time constraints for (sub-) event recognition.
+\newblock In: ACM Workshop on Modeling and Representing Events (J-MRE 11).
+  (2011)
+
+\bibitem{pattern}
+Tsai, S., Cao, L., Tang, F., Huang, T.S.:
+\newblock Compositional object pattern: a new model for album event
+  recognition.
+\newblock In: Proceedings of the 19th International Conference on Multimedia
+  2011. (2011)
+
+\bibitem{Imran09}
+Imran, N., Liu, J., Luo, J., Shah, M.:
+\newblock Event recognition from photo collections via pagerank.
+\newblock In: Proceedings of the 17th ACM International Conference on
+  Multimedia. MM '09, New York, NY, USA, ACM (2009)  621--624
+
+\bibitem{imagenet}
+Krizhevsky, A., Sutskever, I., Hinton, G.E.:
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In: Advances in Neural Information Processing Systems 25.
+\newblock Curran Associates, Inc. (2012)
+
+\bibitem{googlenet}
+Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D.,
+  Vanhoucke, V., Rabinovich, A.:
+\newblock Going deeper with convolutions.
+\newblock In: The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). (2015)
+
+\bibitem{rcnn}
+Girshick, R., Donahue, J., Darrell, T., Malik, J.:
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In: The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). (2014)
+
+\bibitem{places}
+Zhou, B., Lapedriza, A., Xiao, J., Torralba, A., Oliva, A.:
+\newblock Learning deep features for scene recognition using places database.
+\newblock In: Advances in Neural Information Processing Systems 27 (NIPS).
+  (2014)
+
+\bibitem{event_recognition}
+Xiong, Y., Zhu, K., Lin, D., Tang, X.:
+\newblock Recognize complex events from static images by fusing deep channels.
+\newblock In: The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). (2015)
+
+\bibitem{long_shelhamer_fcn}
+Long, J., Shelhamer, E., Darrell, T.:
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock CVPR (to appear) (November 2015)
+
+\bibitem{tagging}
+Gong, Y., Jia, Y., Leung, T., Toshev, A., Ioffe, S.:
+\newblock Deep convolutional ranking for multilabel image annotation.
+\newblock CoRR \textbf{abs/1312.4894} (2013)
+
+\bibitem{lrcn}
+Donahue, J., Hendricks, L.A., Guadarrama, S., Rohrbach, M., Venugopalan, S.,
+  Saenko, K., Darrell, T.:
+\newblock Long-term recurrent convolutional networks for visual recognition and
+  description.
+\newblock In: CVPR. (2015)
+
+\bibitem{Graves}
+Graves, A., Liwicki, M., Fern\'{a}ndez, S., Bertolami, R., Bunke, H.,
+  Schmidhuber, J.:
+\newblock A novel connectionist system for unconstrained handwriting
+  recognition.
+\newblock IEEE Trans. Pattern Anal. Mach. Intell. (2009)
+
+\bibitem{speech}
+Sak, H., Senior, A.W., Beaufays, F.:
+\newblock Long short-term memory recurrent neural network architectures for
+  large scale acoustic modeling.
+\newblock In: {INTERSPEECH} 2014, 15th Annual Conference of the International
+  Speech Communication Association, Singapore, September 14-18, 2014
+
+\bibitem{caffe}
+Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R.,
+  Guadarrama, S., Darrell, T.:
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock arXiv preprint arXiv:1408.5093 (2014)
+
+\bibitem{adadelta}
+Zeiler, M.D.:
+\newblock Adadelta: An adaptive learning rate method.
+\newblock CoRR \textbf{abs/1212.5701} (2012)
+
+\bibitem{theano1}
+Bergstra, J., Breuleux, O., Bastien, F., Lamblin, P., Pascanu, R., Desjardins,
+  G., Turian, J., Warde-Farley, D., Bengio, Y.:
+\newblock Theano: a {CPU} and {GPU} math expression compiler.
+\newblock In: Proceedings of the Python for Scientific Computing Conference
+  ({SciPy}). (June 2010) Oral Presentation.
+
+\bibitem{theano2}
+Bastien, F., Lamblin, P., Pascanu, R., Bergstra, J., Goodfellow, I.J.,
+  Bergeron, A., Bouchard, N., Bengio, Y.:
+\newblock Theano: new features and speed improvements.
+\newblock Deep Learning and Unsupervised Feature Learning NIPS 2012 Workshop
+  (2012)
+
+\end{thebibliography}

@@ -1,0 +1,182 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Benjamini01thecontrol}
+Y.~Benjamini and D.~Yekutieli.
+\newblock The control of the false discovery rate in multiple testing under
+  dependency.
+\newblock {\em Annals of Statistics}, 29:1165--1188, 2001.
+
+\bibitem{photo_selection1}
+A.~Ceroni, V.~Solachidis, C.~Nieder{\'e}e, O.~Papadopoulou, N.~Kanhabua, and
+  V.~Mezaris.
+\newblock To keep or not to keep: An expectation-oriented photo selection
+  method for personal photo collections.
+\newblock In {\em Proceedings of the 5th International Conference on Multimedia
+  Retrieval (ICMR)}, 2015.
+
+\bibitem{devil}
+K.~Chatfield, K.~Simonyan, A.~Vedaldi, and A.~Zisserman.
+\newblock Return of the devil in the details: Delving deep into convolutional
+  nets.
+\newblock In {\em Proceedings of the British Machine Vision Conference (BMVC)},
+  2014.
+
+\bibitem{ranking_loss}
+W.~Chen, T.~yan Liu, Y.~Lan, Z.~Ma, and H.~Li.
+\newblock Ranking measures and loss functions in learning to rank.
+\newblock In {\em Advances in Neural Information Processing Systems 22 (NIPS)},
+  2009.
+
+\bibitem{social_summarize}
+M.~Del~Fabro, A.~Sobe, and L.~B{\"o}sz{\"o}rmenyi.
+\newblock Summarization of real-life events based on community-contributed
+  content.
+\newblock In {\em Proceedings of the Fourth International Conferences on
+  Advances in Multimedia (MMEDIA)}, 2012.
+
+\bibitem{interesting}
+S.~Dhar, V.~Ordonez, and T.~L. Berg.
+\newblock High level describable attributes for predicting aesthetics and
+  interestingness.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, 2011.
+
+\bibitem{scene}
+M.~Dixit, S.~Chen, D.~Gao, N.~Rasiwasia, and N.~Vasconcelos.
+\newblock Scene classification with semantic fisher vectors.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2015.
+
+\bibitem{rcnn}
+R.~Girshick, J.~Donahue, T.~Darrell, and J.~Malik.
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2014.
+
+\bibitem{interesting2}
+M.~Gygli, H.~Grabner, H.~Riemenschneider, F.~Nater, and L.~J.~V. Gool.
+\newblock The interestingness of images.
+\newblock In {\em {IEEE} International Conference on Computer Vision, {ICCV}},
+  2013.
+
+\bibitem{contrastive}
+R.~Hadsell, S.~Chopra, and Y.~LeCun.
+\newblock Dimensionality reduction by learning an invariant mapping.
+\newblock In {\em In Proc. Computer Vision and Pattern Recognition Conference
+  (CVPR)}, 2006.
+
+\bibitem{NIPS2011_4451}
+P.~Isola, D.~Parikh, A.~Torralba, and A.~Oliva.
+\newblock Understanding the intrinsic memorability of images.
+\newblock In {\em Advances in Neural Information Processing Systems 24}. Curran
+  Associates, Inc., 2011.
+
+\bibitem{Isola2011}
+P.~Isola, J.~Xiao, A.~Torralba, and A.~Oliva.
+\newblock What makes an image memorable?
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, 2011.
+
+\bibitem{specificity}
+M.~Jas and D.~Parikh.
+\newblock Image specificity.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2015.
+
+\bibitem{caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock {\em arXiv preprint arXiv:1408.5093}, 2014.
+
+\bibitem{www14_khosla}
+A.~Khosla, A.~D. Sarma, and R.~Hamid.
+\newblock What makes an image popular?
+\newblock In {\em International World Wide Web Conference (WWW)}, 2014.
+
+\bibitem{imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems 25}. Curran
+  Associates, Inc., 2012.
+
+\bibitem{ensemble}
+A.~Krogh and J.~Vedelsby.
+\newblock Neural network ensembles, cross validation, and active learning.
+\newblock In {\em Advances in Neural Information Processing Systems}, 1995.
+
+\bibitem{vacation}
+F.~Sadeghi, J.~Tena, A.~Farhadi, and L.~Sigal.
+\newblock Learning to select and order vacation photographs.
+\newblock In {\em Winter Conference on Applications of Computer Vision (WACV)},
+  2015.
+
+\bibitem{scene_summarize}
+I.~Simon, N.~Snavely, and S.~M. Seitz.
+\newblock Scene summarization for online image collections.
+\newblock In {\em IEEE International Conference on Computer Vision, ICCV},
+  2007.
+
+\bibitem{sum_pinaki}
+P.~Sinha, S.~Mehrotra, and R.~Jain.
+\newblock Summarization of personal photologs using multidimensional content
+  and context.
+\newblock In {\em ICMR}, 2011.
+
+\bibitem{siamese}
+R.~H. Sumit~Chopra and Y.~LeCun.
+\newblock Learning a similarity metric discriminatively, with application to
+  face verification.
+\newblock In {\em Proc. of Computer Vision and Pattern Recognition Conference,
+  IEEE Press}, 2005.
+
+\bibitem{googlenet}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2015.
+
+\bibitem{svm}
+Y.~Tang.
+\newblock Deep learning using linear support vector machines.
+\newblock In {\em Workshop on Representational Learning, ICML}, 2013.
+
+\bibitem{thomee2015yfcc100m}
+B.~Thomee, D.~A. Shamma, G.~Friedland, B.~Elizalde, K.~Ni, D.~Poland, D.~Borth,
+  and L.-J. Li.
+\newblock The new data and new challenges in multimedia research.
+\newblock {\em arXiv preprint arXiv:1503.01817}, 2015.
+
+\bibitem{nips_summarize}
+S.~Tschiatschek, R.~Iyer, H.~Wei, and J.~Bilmes.
+\newblock Learning mixtures of submodular functions for image collection
+  summarization.
+\newblock In {\em Neural Information Processing Systems (NIPS)}, 2014.
+
+\bibitem{gaze}
+T.~C. Walber, A.~Scherp, and S.~Staab.
+\newblock Smart photo selection: Interpret gaze as personal interest.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, 2014.
+
+\bibitem{event_recognition}
+Y.~Xiong, K.~Zhu, D.~Lin, and X.~Tang.
+\newblock Recognize complex events from static images by fusing deep channels.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2015.
+
+\bibitem{perosnalized_che}
+C.-H. Yeh, Y.-C. Ho, B.~A. Barsky, and M.~Ouhyoung.
+\newblock Personalized photograph ranking and selection system.
+\newblock In {\em Proceedings of the International Conference on Multimedia},
+  2010.
+
+\bibitem{places}
+B.~Zhou, A.~Lapedriza, J.~Xiao, A.~Torralba, and A.~Oliva.
+\newblock Learning deep features for scene recognition using places database.
+\newblock In {\em Advances in Neural Information Processing Systems 27 (NIPS)},
+  2014.
+
+\end{thebibliography}

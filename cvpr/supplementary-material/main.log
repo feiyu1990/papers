@@ -1,0 +1,1145 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  31 MAR 2016 16:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./cvpr.sty
+(./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip43
+\@figindent=\skip44
+\cvprrulerbox=\box26
+\cvprrulercount=\count87
+\cvprruleroffset=\dimen103
+\cv@lineheight=\dimen104
+\cv@boxheight=\dimen105
+\cv@tmpbox=\box27
+\cv@refno=\count88
+\cv@tot=\count89
+\cv@tmpc@=\count90
+\cv@tmpc=\count91
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen110
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen111
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen119
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks20
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \setbox \@tempboxa \hb
+ox {\small \noindent #1.~#2} \setlength {\@ctmp }{\hsize } \addtolength {\@ctmp
+ }{-\@figindent }\addtolength {\@ctmp }{-\@figindent } \ifdim \wd \@tempboxa >\
+@ctmp {\small #1.~#2\par } \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } 
+\fi .
+\c@ContinuedFloat=\count105
+)
+\c@subfigure=\count106
+\c@subtable=\count107
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count108
+\calc@Bcount=\count109
+\calc@Adimen=\dimen129
+\calc@Bdimen=\dimen130
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count110
+\calc@Cskip=\skip52
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count111
+\l_MT_multwidth_dim=\dimen131
+\origjot=\skip53
+\l_MT_shortvdotswithinadjustabove_dim=\dimen132
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen133
+\l_MT_above_intertext_sep=\dimen134
+\l_MT_below_intertext_sep=\dimen135
+\l_MT_above_shortintertext_sep=\dimen136
+\l_MT_below_shortintertext_sep=\dimen137
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen138
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count114
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count115
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen139
+\Fld@menulength=\count116
+\Field@Width=\dimen140
+\Fld@charsize=\dimen141
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count117
+\c@Item=\count118
+\c@Hfootnote=\count119
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count120
+\c@bookmark@seq@number=\count121
+\Hy@SectionHShift=\skip54
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+ABD: EveryShipout initializing macros
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen142
+\scratchbox=\box30
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen143
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box31
+Package atbegshi Info: Package `everyshi' patched.
+Package hyperref Info: Link coloring ON on input line 46.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 72.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
+
+<groundtruth.png, id=6, 4968.5625pt x 3047.385pt>
+File: groundtruth.png Graphic file (type png)
+ <use groundtruth.png>
+Package pdftex.def Info: groundtruth.png used on input line 102.
+(pdftex.def)             Requested size: 496.85625pt x 304.70985pt.
+
+<wedding_canvas.jpg, id=13, 3011.25pt x 2710.125pt>
+File: wedding_canvas.jpg Graphic file (type jpg)
+ <use wedding_canvas.jpg>
+Package pdftex.def Info: wedding_canvas.jpg used on input line 125.
+(pdftex.def)             Requested size: 243.46228pt x 219.08885pt.
+
+<birthday_canvas.jpg, id=14, 3011.25pt x 1806.75pt>
+File: birthday_canvas.jpg Graphic file (type jpg)
+ <use birthday_canvas.jpg>
+Package pdftex.def Info: birthday_canvas.jpg used on input line 130.
+(pdftex.def)             Requested size: 243.46228pt x 146.05923pt.
+
+<zoo_canvas.jpg, id=15, 3011.25pt x 2107.875pt>
+File: zoo_canvas.jpg Graphic file (type jpg)
+ <use zoo_canvas.jpg>
+Package pdftex.def Info: zoo_canvas.jpg used on input line 136.
+(pdftex.def)             Requested size: 243.46228pt x 170.40244pt.
+
+<graduation_canvas.jpg, id=16, 3011.25pt x 2710.125pt>
+File: graduation_canvas.jpg Graphic file (type jpg)
+
+<use graduation_canvas.jpg>
+Package pdftex.def Info: graduation_canvas.jpg used on input line 143.
+(pdftex.def)             Requested size: 243.46228pt x 219.08885pt.
+
+<face_heatmap.png, id=18, 924.45375pt x 410.53375pt>
+File: face_heatmap.png Graphic file (type png)
+ <use face_heatmap.png>
+Package pdftex.def Info: face_heatmap.png used on input line 157.
+(pdftex.def)             Requested size: 397.48651pt x 176.51353pt.
+Package epstopdf Info: Source file: <5_worker_1.eps>
+(epstopdf)                    date: 2016-03-31 09:54:52
+(epstopdf)                    size: 18881 bytes
+(epstopdf)             Output file: <5_worker_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-31 11:46:06
+(epstopdf)                    size: 14184 bytes
+(epstopdf)             Command: <repstopdf --outfile=5_worker_1-eps-converted-t
+o.pdf 5_worker_1.eps>
+(epstopdf)             \includegraphics on input line 182.
+Package epstopdf Info: Output file is already uptodate.
+
+<5_worker_1-eps-converted-to.pdf, id=21, 1475.5125pt x 421.575pt>
+File: 5_worker_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 5_worker_1-eps-converted-to.pdf>
+Package pdftex.def Info: 5_worker_1-eps-converted-to.pdf used on input line 182
+.
+(pdftex.def)             Requested size: 496.85625pt x 141.957pt.
+Package epstopdf Info: Source file: <5_worker_2.eps>
+(epstopdf)                    date: 2016-03-31 09:54:52
+(epstopdf)                    size: 18076 bytes
+(epstopdf)             Output file: <5_worker_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-31 11:46:07
+(epstopdf)                    size: 13353 bytes
+(epstopdf)             Command: <repstopdf --outfile=5_worker_2-eps-converted-t
+o.pdf 5_worker_2.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+
+<5_worker_2-eps-converted-to.pdf, id=22, 1282.7925pt x 421.575pt>
+File: 5_worker_2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 5_worker_2-eps-converted-to.pdf>
+Package pdftex.def Info: 5_worker_2-eps-converted-to.pdf used on input line 191
+.
+(pdftex.def)             Requested size: 496.85625pt x 163.28142pt.
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] [2
+
+ <./groundtruth.png>] [3 <./wedding_canvas.jpg> <./birthday_canvas.jpg> <./zoo_
+canvas.jpg> <./graduation_canvas.jpg>]
+[4 <./face_heatmap.png> <./5_worker_1-eps-converted-to.pdf> <./5_worker_2-eps-c
+onverted-to.pdf>] [5]
+<results/a1_0_67618625@N00_7_20.jpg, id=95, 3493.05pt x 1545.775pt>
+File: results/a1_0_67618625@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/a1_0_67618625@N00_7_20.jpg>
+Package pdftex.def Info: results/a1_0_67618625@N00_7_20.jpg used on input line 
+252.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/a2_0_9137715@N05_8_20.jpg, id=96, 3994.925pt x 1545.775pt>
+File: results/a2_0_9137715@N05_8_20.jpg Graphic file (type jpg)
+
+<use results/a2_0_9137715@N05_8_20.jpg>
+Package pdftex.def Info: results/a2_0_9137715@N05_8_20.jpg used on input line 2
+53.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a3_0_12356498@N06_8_10.jpg, id=97, 3994.925pt x 1545.775pt>
+File: results/a3_0_12356498@N06_8_10.jpg Graphic file (type jpg)
+
+<use results/a3_0_12356498@N06_8_10.jpg>
+Package pdftex.def Info: results/a3_0_12356498@N06_8_10.jpg used on input line 
+254.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a4_0_70644035@N00_8_15.jpg, id=98, 3994.925pt x 1545.775pt>
+File: results/a4_0_70644035@N00_8_15.jpg Graphic file (type jpg)
+
+<use results/a4_0_70644035@N00_8_15.jpg>
+Package pdftex.def Info: results/a4_0_70644035@N00_8_15.jpg used on input line 
+255.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a5_0_28004076@N04_9_20.jpg, id=99, 4496.8pt x 1545.775pt>
+File: results/a5_0_28004076@N04_9_20.jpg Graphic file (type jpg)
+
+<use results/a5_0_28004076@N04_9_20.jpg>
+Package pdftex.def Info: results/a5_0_28004076@N04_9_20.jpg used on input line 
+256.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+ [6
+
+
+
+]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+
+Overfull \vbox (19.62875pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 7 contains only floats.
+
+
+Overfull \vbox (19.62875pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (5.62875pt too high) has occurred while \output is active []
+
+
+[7 <./results/a1_0_67618625@N00_7_20.jpg> <./results/a2_0_9137715@N05_8_20.jpg>
+ <./results/a3_0_12356498@N06_8_10.jpg> <./results/a4_0_70644035@N00_8_15.jpg> 
+<./results/a5_0_28004076@N04_9_20.jpg>]
+<results/new_0_57185608@N00_7_20.jpg, id=116, 3493.05pt x 1545.775pt>
+File: results/new_0_57185608@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/new_0_57185608@N00_7_20.jpg>
+Package pdftex.def Info: results/new_0_57185608@N00_7_20.jpg used on input line
+ 263.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/a7_40_44082489@N00_6_20.jpg, id=117, 2991.175pt x 1545.775pt>
+File: results/a7_40_44082489@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/a7_40_44082489@N00_6_20.jpg>
+Package pdftex.def Info: results/a7_40_44082489@N00_6_20.jpg used on input line
+ 264.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a8_0_70054695@N00_8_20.jpg, id=118, 3994.925pt x 1545.775pt>
+File: results/a8_0_70054695@N00_8_20.jpg Graphic file (type jpg)
+
+<use results/a8_0_70054695@N00_8_20.jpg>
+Package pdftex.def Info: results/a8_0_70054695@N00_8_20.jpg used on input line 
+265.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a9_0_51517883@N00_6_20.jpg, id=119, 2991.175pt x 1545.775pt>
+File: results/a9_0_51517883@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/a9_0_51517883@N00_6_20.jpg>
+Package pdftex.def Info: results/a9_0_51517883@N00_6_20.jpg used on input line 
+266.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a10_0_52685047@N00_7_20.jpg, id=120, 3493.05pt x 1545.775pt>
+File: results/a10_0_52685047@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/a10_0_52685047@N00_7_20.jpg>
+Package pdftex.def Info: results/a10_0_52685047@N00_7_20.jpg used on input line
+ 267.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/a11_37_30952578@N00_8_20.jpg, id=121, 3994.925pt x 1545.775pt>
+File: results/a11_37_30952578@N00_8_20.jpg Graphic file (type jpg)
+
+<use results/a11_37_30952578@N00_8_20.jpg>
+Package pdftex.def Info: results/a11_37_30952578@N00_8_20.jpg used on input lin
+e 268.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a12_0_40958113@N00_8_10.jpg, id=122, 3994.925pt x 1545.775pt>
+File: results/a12_0_40958113@N00_8_10.jpg Graphic file (type jpg)
+
+<use results/a12_0_40958113@N00_8_10.jpg>
+Package pdftex.def Info: results/a12_0_40958113@N00_8_10.jpg used on input line
+ 269.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+ [8 <./results/new_0_57185608@N00_7_20.jpg> <./results/a7_40_44082489@N00_6_20.
+jpg> <./results/a8_0_70054695@N00_8_20.jpg> <./results/a9_0_51517883@N00_6_20.j
+pg> <./results/a10_0_52685047@N00_7_20.jpg> <./results/a11_37_30952578@N00_8_20
+.jpg> <./results/a12_0_40958113@N00_8_10.jpg>]
+<results/a13_1_51164183@N07_10_20.jpg, id=127, 4998.675pt x 1545.775pt>
+File: results/a13_1_51164183@N07_10_20.jpg Graphic file (type jpg)
+
+<use results/a13_1_51164183@N07_10_20.jpg>
+Package pdftex.def Info: results/a13_1_51164183@N07_10_20.jpg used on input lin
+e 276.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/a14_1_56922885@N00_9_15.jpg, id=128, 4496.8pt x 1545.775pt>
+File: results/a14_1_56922885@N00_9_15.jpg Graphic file (type jpg)
+
+<use results/a14_1_56922885@N00_9_15.jpg>
+Package pdftex.def Info: results/a14_1_56922885@N00_9_15.jpg used on input line
+ 277.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/a15_1_60509459@N00_7_20.jpg, id=129, 3493.05pt x 1545.775pt>
+File: results/a15_1_60509459@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/a15_1_60509459@N00_7_20.jpg>
+Package pdftex.def Info: results/a15_1_60509459@N00_7_20.jpg used on input line
+ 278.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/a16_1_65675500@N00_6_20.jpg, id=130, 2991.175pt x 1545.775pt>
+File: results/a16_1_65675500@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/a16_1_65675500@N00_6_20.jpg>
+Package pdftex.def Info: results/a16_1_65675500@N00_6_20.jpg used on input line
+ 279.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a17_1_66263830@N00_8_15.jpg, id=131, 3994.925pt x 1545.775pt>
+File: results/a17_1_66263830@N00_8_15.jpg Graphic file (type jpg)
+
+<use results/a17_1_66263830@N00_8_15.jpg>
+Package pdftex.def Info: results/a17_1_66263830@N00_8_15.jpg used on input line
+ 280.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/a18_1_82802179@N00_10_20.jpg, id=132, 4998.675pt x 1545.775pt>
+File: results/a18_1_82802179@N00_10_20.jpg Graphic file (type jpg)
+
+<use results/a18_1_82802179@N00_10_20.jpg>
+Package pdftex.def Info: results/a18_1_82802179@N00_10_20.jpg used on input lin
+e 281.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+ [9 <./results/a13_1_51164183@N07_10_20.jpg> <./results/a14_1_56922885@N00_9_15
+.jpg> <./results/a15_1_60509459@N00_7_20.jpg> <./results/a16_1_65675500@N00_6_2
+0.jpg> <./results/a17_1_66263830@N00_8_15.jpg> <./results/a18_1_82802179@N00_10
+_20.jpg>]
+<results/a19_17_44124461706@N01_6_20.jpg, id=137, 2991.175pt x 1545.775pt>
+File: results/a19_17_44124461706@N01_6_20.jpg Graphic file (type jpg)
+
+<use results/a19_17_44124461706@N01_6_20.jpg>
+Package pdftex.def Info: results/a19_17_44124461706@N01_6_20.jpg used on input 
+line 288.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/Halloween/7_54788523@N00_6_20.jpg, id=138, 2991.175pt x 1545.775pt>
+File: results/Halloween/7_54788523@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/Halloween/7_54788523@N00_6_20.jpg>
+Package pdftex.def Info: results/Halloween/7_54788523@N00_6_20.jpg used on inpu
+t line 290.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a21_1_28004076@N04_6_20.jpg, id=139, 2991.175pt x 1545.775pt>
+File: results/a21_1_28004076@N04_6_20.jpg Graphic file (type jpg)
+
+<use results/a21_1_28004076@N04_6_20.jpg>
+Package pdftex.def Info: results/a21_1_28004076@N04_6_20.jpg used on input line
+ 291.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a22_1_7614607@N05_7_20.jpg, id=140, 3493.05pt x 1545.775pt>
+File: results/a22_1_7614607@N05_7_20.jpg Graphic file (type jpg)
+
+<use results/a22_1_7614607@N05_7_20.jpg>
+Package pdftex.def Info: results/a22_1_7614607@N05_7_20.jpg used on input line 
+292.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/a23_1_42943151@N06_7_20.jpg, id=141, 3493.05pt x 1545.775pt>
+File: results/a23_1_42943151@N06_7_20.jpg Graphic file (type jpg)
+
+<use results/a23_1_42943151@N06_7_20.jpg>
+Package pdftex.def Info: results/a23_1_42943151@N06_7_20.jpg used on input line
+ 293.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/Halloween/0_17746744@N08_6_20.jpg, id=142, 2991.175pt x 1545.775pt>
+File: results/Halloween/0_17746744@N08_6_20.jpg Graphic file (type jpg)
+
+<use results/Halloween/0_17746744@N08_6_20.jpg>
+Package pdftex.def Info: results/Halloween/0_17746744@N08_6_20.jpg used on inpu
+t line 294.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/a25_25_88483799@N00_10_15.jpg, id=143, 4998.675pt x 1545.775pt>
+File: results/a25_25_88483799@N00_10_15.jpg Graphic file (type jpg)
+
+<use results/a25_25_88483799@N00_10_15.jpg>
+Package pdftex.def Info: results/a25_25_88483799@N00_10_15.jpg used on input li
+ne 296.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/a26_97_32323502@N00_9_15.jpg, id=144, 4496.8pt x 1545.775pt>
+File: results/a26_97_32323502@N00_9_15.jpg Graphic file (type jpg)
+
+<use results/a26_97_32323502@N00_9_15.jpg>
+Package pdftex.def Info: results/a26_97_32323502@N00_9_15.jpg used on input lin
+e 297.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+
+LaTeX Warning: Float too large for page by 35.62875pt on input line 299.
+
+[10 <./results/a19_17_44124461706@N01_6_20.jpg> <./results/Halloween/7_54788523
+@N00_6_20.jpg> <./results/a21_1_28004076@N04_6_20.jpg> <./results/a22_1_7614607
+@N05_7_20.jpg> <./results/a23_1_42943151@N06_7_20.jpg> <./results/Halloween/0_1
+7746744@N08_6_20.jpg> <./results/a25_25_88483799@N00_10_15.jpg> <./results/a26_
+97_32323502@N00_9_15.jpg>]
+<results/b1_2_30275727@N02_8_10.jpg, id=149, 3994.925pt x 1545.775pt>
+File: results/b1_2_30275727@N02_8_10.jpg Graphic file (type jpg)
+
+<use results/b1_2_30275727@N02_8_10.jpg>
+Package pdftex.def Info: results/b1_2_30275727@N02_8_10.jpg used on input line 
+304.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/b2_2_33237963@N00_7_20.jpg, id=150, 3493.05pt x 1545.775pt>
+File: results/b2_2_33237963@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/b2_2_33237963@N00_7_20.jpg>
+Package pdftex.def Info: results/b2_2_33237963@N00_7_20.jpg used on input line 
+305.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/b3_2_96212491@N00_6_20.jpg, id=151, 2991.175pt x 1545.775pt>
+File: results/b3_2_96212491@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/b3_2_96212491@N00_6_20.jpg>
+Package pdftex.def Info: results/b3_2_96212491@N00_6_20.jpg used on input line 
+306.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/b4_0_68598987@N00_8_20.jpg, id=152, 3994.925pt x 1545.775pt>
+File: results/b4_0_68598987@N00_8_20.jpg Graphic file (type jpg)
+
+<use results/b4_0_68598987@N00_8_20.jpg>
+Package pdftex.def Info: results/b4_0_68598987@N00_8_20.jpg used on input line 
+307.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/b5_3_9025932@N08_10_20.jpg, id=153, 4998.675pt x 1545.775pt>
+File: results/b5_3_9025932@N08_10_20.jpg Graphic file (type jpg)
+
+<use results/b5_3_9025932@N08_10_20.jpg>
+Package pdftex.def Info: results/b5_3_9025932@N08_10_20.jpg used on input line 
+308.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/b6_3_82373898@N00_9_20.jpg, id=154, 4496.8pt x 1545.775pt>
+File: results/b6_3_82373898@N00_9_20.jpg Graphic file (type jpg)
+
+<use results/b6_3_82373898@N00_9_20.jpg>
+Package pdftex.def Info: results/b6_3_82373898@N00_9_20.jpg used on input line 
+309.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+ [11 <./results/b1_2_30275727@N02_8_10.jpg> <./results/b2_2_33237963@N00_7_20.j
+pg> <./results/b3_2_96212491@N00_6_20.jpg> <./results/b4_0_68598987@N00_8_20.jp
+g> <./results/b5_3_9025932@N08_10_20.jpg> <./results/b6_3_82373898@N00_9_20.jpg
+>]
+<results/b7_4_49561754@N00_9_10.jpg, id=160, 4496.8pt x 1545.775pt>
+File: results/b7_4_49561754@N00_9_10.jpg Graphic file (type jpg)
+
+<use results/b7_4_49561754@N00_9_10.jpg>
+Package pdftex.def Info: results/b7_4_49561754@N00_9_10.jpg used on input line 
+316.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/b8_6_93995264@N00_8_20.jpg, id=161, 3994.925pt x 1545.775pt>
+File: results/b8_6_93995264@N00_8_20.jpg Graphic file (type jpg)
+
+<use results/b8_6_93995264@N00_8_20.jpg>
+Package pdftex.def Info: results/b8_6_93995264@N00_8_20.jpg used on input line 
+317.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/b9_3_12515159@N07_9_20.jpg, id=162, 4496.8pt x 1545.775pt>
+File: results/b9_3_12515159@N07_9_20.jpg Graphic file (type jpg)
+
+<use results/b9_3_12515159@N07_9_20.jpg>
+Package pdftex.def Info: results/b9_3_12515159@N07_9_20.jpg used on input line 
+318.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/b10_5_12482312@N00_10_20.jpg, id=163, 4998.675pt x 1545.775pt>
+File: results/b10_5_12482312@N00_10_20.jpg Graphic file (type jpg)
+
+<use results/b10_5_12482312@N00_10_20.jpg>
+Package pdftex.def Info: results/b10_5_12482312@N00_10_20.jpg used on input lin
+e 319.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/b11_5_25093253@N05_8_20.jpg, id=164, 3994.925pt x 1545.775pt>
+File: results/b11_5_25093253@N05_8_20.jpg Graphic file (type jpg)
+
+<use results/b11_5_25093253@N05_8_20.jpg>
+Package pdftex.def Info: results/b11_5_25093253@N05_8_20.jpg used on input line
+ 320.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+ [12 <./results/b7_4_49561754@N00_9_10.jpg> <./results/b8_6_93995264@N00_8_20.j
+pg> <./results/b9_3_12515159@N07_9_20.jpg> <./results/b10_5_12482312@N00_10_20.
+jpg> <./results/b11_5_25093253@N05_8_20.jpg>] <results/b12_5_25369032@N00_7_10.
+jpg, id=170, 3493.05pt x 1545.775pt>
+File: results/b12_5_25369032@N00_7_10.jpg Graphic file (type jpg)
+
+<use results/b12_5_25369032@N00_7_10.jpg>
+Package pdftex.def Info: results/b12_5_25369032@N00_7_10.jpg used on input line
+ 327.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/b13_7_7349747@N02_8_20.jpg, id=171, 3994.925pt x 1545.775pt>
+File: results/b13_7_7349747@N02_8_20.jpg Graphic file (type jpg)
+
+<use results/b13_7_7349747@N02_8_20.jpg>
+Package pdftex.def Info: results/b13_7_7349747@N02_8_20.jpg used on input line 
+328.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/b14_7_47519867@N07_7_20.jpg, id=172, 3493.05pt x 1545.775pt>
+File: results/b14_7_47519867@N07_7_20.jpg Graphic file (type jpg)
+
+<use results/b14_7_47519867@N07_7_20.jpg>
+Package pdftex.def Info: results/b14_7_47519867@N07_7_20.jpg used on input line
+ 329.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/b15_7_69966484@N00_7_10.jpg, id=173, 3493.05pt x 1545.775pt>
+File: results/b15_7_69966484@N00_7_10.jpg Graphic file (type jpg)
+
+<use results/b15_7_69966484@N00_7_10.jpg>
+Package pdftex.def Info: results/b15_7_69966484@N00_7_10.jpg used on input line
+ 330.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/b16_8_43257106@N07_8_10.jpg, id=174, 3994.925pt x 1545.775pt>
+File: results/b16_8_43257106@N07_8_10.jpg Graphic file (type jpg)
+
+<use results/b16_8_43257106@N07_8_10.jpg>
+Package pdftex.def Info: results/b16_8_43257106@N07_8_10.jpg used on input line
+ 331.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+ [13 <./results/b12_5_25369032@N00_7_10.jpg> <./results/b13_7_7349747@N02_8_20.
+jpg> <./results/b14_7_47519867@N07_7_20.jpg> <./results/b15_7_69966484@N00_7_10
+.jpg> <./results/b16_8_43257106@N07_8_10.jpg>]
+<results/b17_8_66724483@N00_6_20.jpg, id=180, 2991.175pt x 1545.775pt>
+File: results/b17_8_66724483@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/b17_8_66724483@N00_6_20.jpg>
+Package pdftex.def Info: results/b17_8_66724483@N00_6_20.jpg used on input line
+ 338.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/b18_8_84905000@N00_10_15.jpg, id=181, 4998.675pt x 1545.775pt>
+File: results/b18_8_84905000@N00_10_15.jpg Graphic file (type jpg)
+
+<use results/b18_8_84905000@N00_10_15.jpg>
+Package pdftex.def Info: results/b18_8_84905000@N00_10_15.jpg used on input lin
+e 339.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/b19_25_90514086@N00_9_10.jpg, id=182, 4496.8pt x 1545.775pt>
+File: results/b19_25_90514086@N00_9_10.jpg Graphic file (type jpg)
+
+<use results/b19_25_90514086@N00_9_10.jpg>
+Package pdftex.def Info: results/b19_25_90514086@N00_9_10.jpg used on input lin
+e 340.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/b20_9_28657663@N00_10_15.jpg, id=183, 4998.675pt x 1545.775pt>
+File: results/b20_9_28657663@N00_10_15.jpg Graphic file (type jpg)
+
+<use results/b20_9_28657663@N00_10_15.jpg>
+Package pdftex.def Info: results/b20_9_28657663@N00_10_15.jpg used on input lin
+e 341.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/b21_13_44564547@N00_7_20.jpg, id=184, 3493.05pt x 1545.775pt>
+File: results/b21_13_44564547@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/b21_13_44564547@N00_7_20.jpg>
+Package pdftex.def Info: results/b21_13_44564547@N00_7_20.jpg used on input lin
+e 342.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/b22_14_53746192@N00_6_20.jpg, id=185, 2991.175pt x 1545.775pt>
+File: results/b22_14_53746192@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/b22_14_53746192@N00_6_20.jpg>
+Package pdftex.def Info: results/b22_14_53746192@N00_6_20.jpg used on input lin
+e 343.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+
+LaTeX Warning: Float too large for page by 35.62875pt on input line 345.
+
+[14 <./results/b17_8_66724483@N00_6_20.jpg> <./results/b18_8_84905000@N00_10_15
+.jpg> <./results/b19_25_90514086@N00_9_10.jpg> <./results/b20_9_28657663@N00_10
+_15.jpg> <./results/b21_13_44564547@N00_7_20.jpg> <./results/b22_14_53746192@N0
+0_6_20.jpg>]
+<results/c1_14_97402086@N00_6_20.jpg, id=191, 2991.175pt x 1545.775pt>
+File: results/c1_14_97402086@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/c1_14_97402086@N00_6_20.jpg>
+Package pdftex.def Info: results/c1_14_97402086@N00_6_20.jpg used on input line
+ 351.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/c2_24_97863854@N00_8_15.jpg, id=192, 3994.925pt x 1545.775pt>
+File: results/c2_24_97863854@N00_8_15.jpg Graphic file (type jpg)
+
+<use results/c2_24_97863854@N00_8_15.jpg>
+Package pdftex.def Info: results/c2_24_97863854@N00_8_15.jpg used on input line
+ 352.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/c3_20_9674366@N08_8_20.jpg, id=193, 3994.925pt x 1545.775pt>
+File: results/c3_20_9674366@N08_8_20.jpg Graphic file (type jpg)
+
+<use results/c3_20_9674366@N08_8_20.jpg>
+Package pdftex.def Info: results/c3_20_9674366@N08_8_20.jpg used on input line 
+353.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/c4_38_27988337@N00_10_20.jpg, id=194, 4998.675pt x 1545.775pt>
+File: results/c4_38_27988337@N00_10_20.jpg Graphic file (type jpg)
+
+<use results/c4_38_27988337@N00_10_20.jpg>
+Package pdftex.def Info: results/c4_38_27988337@N00_10_20.jpg used on input lin
+e 354.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+
+<results/c5_18_97864553@N00_9_15.jpg, id=195, 4496.8pt x 1545.775pt>
+File: results/c5_18_97864553@N00_9_15.jpg Graphic file (type jpg)
+
+<use results/c5_18_97864553@N00_9_15.jpg>
+Package pdftex.def Info: results/c5_18_97864553@N00_9_15.jpg used on input line
+ 355.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+ [15 <./results/c1_14_97402086@N00_6_20.jpg> <./results/c2_24_97863854@N00_8_15
+.jpg> <./results/c3_20_9674366@N08_8_20.jpg> <./results/c4_38_27988337@N00_10_2
+0.jpg> <./results/c5_18_97864553@N00_9_15.jpg>]
+<results/c6_35_59755673@N04_6_20.jpg, id=202, 2991.175pt x 1545.775pt>
+File: results/c6_35_59755673@N04_6_20.jpg Graphic file (type jpg)
+
+<use results/c6_35_59755673@N04_6_20.jpg>
+Package pdftex.def Info: results/c6_35_59755673@N04_6_20.jpg used on input line
+ 363.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/c7_49_30952578@N00_6_20.jpg, id=203, 2991.175pt x 1545.775pt>
+File: results/c7_49_30952578@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/c7_49_30952578@N00_6_20.jpg>
+Package pdftex.def Info: results/c7_49_30952578@N00_6_20.jpg used on input line
+ 364.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/c8_17_16036153@N04_8_10.jpg, id=204, 3994.925pt x 1545.775pt>
+File: results/c8_17_16036153@N04_8_10.jpg Graphic file (type jpg)
+
+<use results/c8_17_16036153@N04_8_10.jpg>
+Package pdftex.def Info: results/c8_17_16036153@N04_8_10.jpg used on input line
+ 365.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/c9_41_22539273@N00_9_15.jpg, id=205, 4496.8pt x 1545.775pt>
+File: results/c9_41_22539273@N00_9_15.jpg Graphic file (type jpg)
+
+<use results/c9_41_22539273@N00_9_15.jpg>
+Package pdftex.def Info: results/c9_41_22539273@N00_9_15.jpg used on input line
+ 366.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/c10_50_12734746@N00_10_20.jpg, id=206, 4998.675pt x 1545.775pt>
+File: results/c10_50_12734746@N00_10_20.jpg Graphic file (type jpg)
+
+<use results/c10_50_12734746@N00_10_20.jpg>
+Package pdftex.def Info: results/c10_50_12734746@N00_10_20.jpg used on input li
+ne 367.
+(pdftex.def)             Requested size: 350.55319pt x 108.405pt.
+ [16 <./results/c6_35_59755673@N04_6_20.jpg> <./results/c7_49_30952578@N00_6_20
+.jpg> <./results/c8_17_16036153@N04_8_10.jpg> <./results/c9_41_22539273@N00_9_1
+5.jpg> <./results/c10_50_12734746@N00_10_20.jpg>]
+<results/c11_51_66478195@N00_7_20.jpg, id=212, 3493.05pt x 1545.775pt>
+File: results/c11_51_66478195@N00_7_20.jpg Graphic file (type jpg)
+
+<use results/c11_51_66478195@N00_7_20.jpg>
+Package pdftex.def Info: results/c11_51_66478195@N00_7_20.jpg used on input lin
+e 374.
+(pdftex.def)             Requested size: 244.96487pt x 108.405pt.
+
+<results/c12_78_14451269@N00_6_20.jpg, id=213, 2991.175pt x 1545.775pt>
+File: results/c12_78_14451269@N00_6_20.jpg Graphic file (type jpg)
+
+<use results/c12_78_14451269@N00_6_20.jpg>
+Package pdftex.def Info: results/c12_78_14451269@N00_6_20.jpg used on input lin
+e 375.
+(pdftex.def)             Requested size: 209.76878pt x 108.405pt.
+
+<results/c13_85_43162195@N00_8_20.jpg, id=214, 3994.925pt x 1545.775pt>
+File: results/c13_85_43162195@N00_8_20.jpg Graphic file (type jpg)
+
+<use results/c13_85_43162195@N00_8_20.jpg>
+Package pdftex.def Info: results/c13_85_43162195@N00_8_20.jpg used on input lin
+e 376.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/c14_95_66478195@N00_9_15.jpg, id=215, 4496.8pt x 1545.775pt>
+File: results/c14_95_66478195@N00_9_15.jpg Graphic file (type jpg)
+
+<use results/c14_95_66478195@N00_9_15.jpg>
+Package pdftex.def Info: results/c14_95_66478195@N00_9_15.jpg used on input lin
+e 377.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+<results/c15_124_8798099@N02_8_20.jpg, id=216, 3994.925pt x 1545.775pt>
+File: results/c15_124_8798099@N02_8_20.jpg Graphic file (type jpg)
+
+<use results/c15_124_8798099@N02_8_20.jpg>
+Package pdftex.def Info: results/c15_124_8798099@N02_8_20.jpg used on input lin
+e 378.
+(pdftex.def)             Requested size: 280.16098pt x 108.405pt.
+
+<results/c16_155_27998473@N02_9_20.jpg, id=217, 4496.8pt x 1545.775pt>
+File: results/c16_155_27998473@N02_9_20.jpg Graphic file (type jpg)
+
+<use results/c16_155_27998473@N02_9_20.jpg>
+Package pdftex.def Info: results/c16_155_27998473@N02_9_20.jpg used on input li
+ne 379.
+(pdftex.def)             Requested size: 315.35709pt x 108.405pt.
+
+
+LaTeX Warning: Float too large for page by 46.62875pt on input line 381.
+
+No file main.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+[17 <./results/c11_51_66478195@N00_7_20.jpg> <./results/c12_78_14451269@N00_6_2
+0.jpg> <./results/c13_85_43162195@N00_8_20.jpg> <./results/c14_95_66478195@N00_
+9_15.jpg> <./results/c15_124_8798099@N02_8_20.jpg> <./results/c16_155_27998473@
+N02_9_20.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 389.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
+ ) 
+Here is how much of TeX's memory you used:
+ 8656 strings out of 493315
+ 137535 string characters out of 6137904
+ 233302 words of memory out of 5000000
+ 11861 multiletter control sequences out of 15000+600000
+ 29594 words of font info for 72 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 42i,12n,44p,798b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 80001764 bytes).
+PDF statistics:
+ 267 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+
